@@ -1,0 +1,3 @@
+[submodule "py-retrosheet"]
+	path = py-retrosheet
+	url = git@github.com:Shinichi-Nakagawa/py-retrosheet.git
