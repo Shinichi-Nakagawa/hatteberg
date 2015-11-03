@@ -1,0 +1,9 @@
+[mysql]
+encoding=utf-8
+dialect=mysql
+driver=pymysql
+user=app
+password=app_user_password
+host=192.168.33.10
+port=3306
+database=retrosheet
