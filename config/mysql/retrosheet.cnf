@@ -6,3 +6,5 @@ default-character-set = utf8
 
 [mysqld]
 character-set-server=utf8
+innodb_buffer_pool_size=800M
+innodb_log_file_size=128M
